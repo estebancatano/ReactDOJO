@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## ¿Qué es Flux?
 
 Flux es la arquitectura de aplicaciones que Facebook utiliza para crear aplicaciones web del lado del cliente (front-end). Complementa los `components` de React mediante la utilización de un flujo de datos unidireccional. Es más bien un patrón en lugar de un framework.
@@ -51,4 +50,3 @@ Referencias: Ejemplo de la arquitectura Flux, tutorial platzi por Sacha Lifszyc 
 =======
 # ReactDOJO
 DOJO sobre el framework javascript React del curso de Aplicaciones Empresariales
->>>>>>> 732377f7b813ed9d8b74a9668105688524bcc415
